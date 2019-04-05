@@ -19,7 +19,7 @@ import com.github.agogs.holidayapi.model.Holiday;
 public class Holidays {
 
 	private static final String CONNECTION_URL = "https://holidayapi.com/v1/holidays";
-	private static final String API_KEY = "60a56ae1-474f-447d-9145-89689fddc3ab";
+	private static final String API_KEY = "3ddffb40-7ba7-4d35-8f57-523f3f154455";
 	private static final String DATE_PATTERN = "yyyy-MM-dd";
 	private static final String SPECIAL_CHARS_PATTERN = ("[!@#$%&*()_+=|<>?{}\\[\\]~]");
 	private static final int HOLIDAY_INDEX = 0;
